@@ -14,8 +14,6 @@ class Test extends React.Component{
         super(props)
 
         this.state = {
-            key : "value",
-            key2 : 3,
             Name : "",
             Info : "",
             Phone : "",
